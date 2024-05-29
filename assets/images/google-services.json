@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "571624044647",
+    "firebase_url": "https://hijaby-app-808a5-default-rtdb.firebaseio.com",
+    "project_id": "hijaby-app-808a5",
+    "storage_bucket": "hijaby-app-808a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571624044647:android:6e763840983d73c50bfcc2",
+        "android_client_info": {
+          "package_name": "com.example.hijaby_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWcOWgtHA-IGj8ftKR-9Gg1JfROz95Z2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
